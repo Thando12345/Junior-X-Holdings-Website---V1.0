@@ -1,60 +1,85 @@
 # Junior-X Holdings Website - V1.0
 
-This repository contains the initial deployment of Junior-X Holdings' main website. Version 1.0 serves as a foundational online presence, introducing Junior-X Holdings' vision, mission, and services to a broader audience through a streamlined and user-friendly interface
+This repository contains the initial deployment of Junior-X Holdings' main website. Version 1.0 serves as a foundational online presence, introducing Junior-X Holdings' vision, mission, and services to a broader audience through a streamlined and user-friendly interface.
 
+*****
 
-Table of Contents
+##### Table of Contents
 
-Project Overview
-Vision & Mission
-Core Features
-Technology Stack
-Deployment
-Getting Started
-Contributing
-License
-Future Updates
-Project Overview
+- [Project Overview](#project-overview)
+- [Vision & Mission](#vision--mission)
+- [Core Features](#core-features)
+- [Technology Stack](#technology-stack)
+- [Deployment](#deployment)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+- [Future Updates](#future-updates)
+
+*****
+
+##### Project Overview
+
 Version 1.0 of the Junior-X Holdings website provides a basic but fully functional platform showcasing our technology solutions and strategic objectives. Designed with a clean, responsive layout, this website includes essential information about our company and aims to serve as a gateway for potential clients and partners.
 
-Vision & Mission
+*****
 
-Vision
+##### Vision & Mission
+
+###### Vision
 
 To pioneer technological innovations that empower businesses and individuals to thrive in a digital world, fostering sustainable growth and societal advancement.
 
-Mission
+###### Mission
 
 To collaborate with clients worldwide, delivering tailor-made solutions that exceed expectations, drive efficiency, and create value for all stakeholders.
 
-Core Features
+*****
 
-1. About Us
-Provides an overview of Junior-X Holdings, including our vision, mission, and core values.
-2. Services
-A dedicated section outlining the services we offer, tailored to meet the diverse needs of our clients.
-3. Vision and Mission Statements
-Highlights our commitment to technological innovation and societal advancement.
-4. Contact Form
-A simple contact form allowing users to reach out to us directly for inquiries, consultations, or collaborations.
-5. Responsive Design
-The site is designed to function smoothly across various devices, providing an optimal user experience on both desktop and mobile platforms.
-Technology Stack
-Frontend: HTML, CSS, JavaScript
-Hosting: Deployed on Vercel for quick and efficient static site hosting
-Responsive Design: Ensures accessibility across devices
-Deployment
-The website is deployed on Vercel, offering a scalable and efficient solution for static site hosting.
+##### Core Features
 
-Deployment Link: Junior-X Holdings Website - V1.0
+1. **About Us**  
+   Provides an overview of Junior-X Holdings, including our vision, mission, and core values.
 
-Getting Started
+2. **Services**  
+   A dedicated section outlining the services we offer, tailored to meet the diverse needs of our clients.
+
+3. **Vision and Mission Statements**  
+   Highlights our commitment to technological innovation and societal advancement.
+
+4. **Contact Form**  
+   A simple contact form allowing users to reach out to us directly for inquiries, consultations, or collaborations.
+
+5. **Responsive Design**  
+   The site is designed to function smoothly across various devices, providing an optimal user experience on both desktop and mobile platforms.
+
+*****
+
+##### Technology Stack
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Hosting**: Deployed on Vercel for quick and efficient static site hosting
+- **Responsive Design**: Ensures accessibility across devices
+
+*****
+
+##### Deployment
+
+The website is deployed on **Vercel**, offering a scalable and efficient solution for static site hosting.
+
+- **Deployment Link**: [Junior-X Holdings Website - V1.0](https://junior-x-holdings.vercel.app)
+
+*****
+
+##### Getting Started
+
 To explore or modify the website locally, follow the steps below:
 
-1. Clone the Repository
+1. **Clone the Repository**
 
-git clone https://github.com/Thando12345/Junior-X-Holdings-Website---V1.0.git
-cd Junior-X-Holdings-Website---V1.0
+   ```bash
+   git clone https://github.com/Thando12345/Junior-X-Holdings-Website---V1.0.git
+   cd Junior-X-Holdings-Website---V1.0
 
 2. Open in Your Code Editor
 
