@@ -67,7 +67,7 @@ To collaborate with clients worldwide, delivering tailor-made solutions that exc
 
 The website is deployed on **Vercel**, offering a scalable and efficient solution for static site hosting.
 
-- **Deployment Link**: [Junior-X Holdings Website - V1.0](https://junior-x-holdings-website-v1-0-2mzghamrz.vercel.app/index.html)
+- **Deployment Link**: [Junior-X Holdings Website - V1.0](https://junior-x-holdings-website-v1-0-2mzghamrz.vercel.app/)
 
 *****
 
